@@ -2,7 +2,11 @@ import React from 'react'
 
 function SignUp() {
   return (
-    <div>SignUp</div>
+    <div className='min-h-screen mt-20'>
+      <div>
+
+      </div>
+    </div>
   )
 }
 

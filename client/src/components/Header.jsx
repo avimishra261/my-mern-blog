@@ -7,7 +7,7 @@ function Header() {
     const path = useLocation().pathname
   return (
     <Navbar>
-        <Link to={'/'} className='self-center whitespace-nowrap text-sm sm:text-xl font-semisolid dark:text-white'>
+        <Link to={'/'} className='self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white'>
             MyBlog
         </Link>
         <form>
